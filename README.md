@@ -1,5 +1,7 @@
 # Mac OSX Manual Environment Set Up
 
+#UPDATED
+
 ## Introduction
 
 This Readme is a step-by-step guide for how to set up your local environment
